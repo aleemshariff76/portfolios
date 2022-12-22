@@ -4,13 +4,13 @@
 
 ### Project Samples
 
-[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)]
+[Retail Analytics - Adeventure Works - Power BI)]
 (https://aleemshariff.notion.site/Retail-Business-Analysis-cba67a8601bf48d6a48e3b87ed7837da))
--	1. Prepared, cleaned and transformed data using **PowerBI** **Query Editor**, 
--	2. Applied **DAX and calculation groups** to create metrics in PowerBI.
-- 3. Visualized data into a trend dashboard with slicers and **KPIs** to **cater to different internal stakeholders** 
-<img src="images/Google Analytics 1.png?raw=true"/>
-<img src="images/Google Analytic KPI.png?raw=true"/>
+1. Prepared, cleaned and transformed data using **PowerBI** **Query Editor**, 
+2. Applied **DAX and calculation groups** to create metrics in PowerBI.
+3. Visualized data into a trend dashboard with slicers and **KPIs** to **cater to different internal stakeholders** 
+<img src="images/Retail Analytics (1).png?raw=true"/>
+<img src="images/Retail Analytics (2).png?raw=true"/>
 
 
 ---
