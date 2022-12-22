@@ -4,7 +4,7 @@
 
 ### Project Samples
 
-[Retail Analytics - Adeventure Works - Power BI)]
+[Retail Business Analytics - Adeventure Works - Power BI)]
 (https://aleemshariff.notion.site/Retail-Business-Analysis-cba67a8601bf48d6a48e3b87ed7837da))
 1. Prepared, cleaned and transformed data using **PowerBI** **Query Editor**, 
 2. Applied **DAX and calculation groups** to create metrics in PowerBI.
