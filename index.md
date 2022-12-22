@@ -4,9 +4,11 @@
 
 ### Project Samples
 
-[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/profile/shuchang.liang#!/vizhome/GoogleAnalyticDashboard-GoogleMerchandiseStore/Dashboard)
--	Transformed large data from session and hit levels using Google BigQuery into a unnested, relational table (1.4-million records).
--	Built a dynamic KPI dashboard which displays monthly or yearly traffic (total sessions, average pageviews, average duration on page) per source and per location, acquisition amounts per channel, and bounce rate per page.
+[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)]
+(https://aleemshariff.notion.site/Retail-Business-Analysis-cba67a8601bf48d6a48e3b87ed7837da))
+-	1. Prepared, cleaned and transformed data using **PowerBI** **Query Editor**, 
+-	2. Applied **DAX and calculation groups** to create metrics in PowerBI.
+- 3. Visualized data into a trend dashboard with slicers and **KPIs** to **cater to different internal stakeholders** 
 <img src="images/Google Analytics 1.png?raw=true"/>
 <img src="images/Google Analytic KPI.png?raw=true"/>
 
