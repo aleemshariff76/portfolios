@@ -5,10 +5,11 @@
 ### Project Samples
 
 [Retail Business Analytics - Adeventure Works - Power BI)]
+
 (https://aleemshariff.notion.site/Retail-Business-Analysis-cba67a8601bf48d6a48e3b87ed7837da))
-1. Prepared, cleaned and transformed data using **PowerBI** **Query Editor**, 
-2. Applied **DAX and calculation groups** to create metrics in PowerBI.
-3. Visualized data into a trend dashboard with slicers and **KPIs** to **cater to different internal stakeholders** 
+- Prepared, cleaned and transformed data using **PowerBI** **Query Editor**, 
+- Applied **DAX and calculation groups** to create metrics in PowerBI.
+- Visualized data into a trend dashboard with slicers and **KPIs** to **cater to different internal stakeholders** 
 <img src="images/Retail Analytics (1).png?raw=true"/>
 <img src="images/Retail Analytics (2).png?raw=true"/>
 
